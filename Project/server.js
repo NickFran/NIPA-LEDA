@@ -42,7 +42,7 @@ app.get('/', (req, res) => {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>IP</title>
+<title>NIPA LEDA</title>
 </head>
 <body style="margin:0;padding:20px;font-family:system-ui,Arial,Helvetica,sans-serif;background:#fff;color:#111;">
     <div style="max-width:480px;margin:0 auto;">
